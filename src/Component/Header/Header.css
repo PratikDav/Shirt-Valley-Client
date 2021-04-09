@@ -1,0 +1,23 @@
+.siteName{
+    font-size:60px;
+    font-weight:600;
+    font-family: 'Syne Mono', monospace;
+}
+.shirt{
+    font-family: 'Redressed', cursive;
+}
+.logOut{
+    background-color: #111430;
+    color: #ffffff;
+    border: 1px 1px solid #111430;
+    outline: none;
+    border-radius:5px;
+    height:40px;
+    width:120px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.user{
+    margin-left: 30px;
+    margin-top: 15px;
+}
